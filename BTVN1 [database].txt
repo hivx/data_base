@@ -1,0 +1,8 @@
+BTVN1: [database] làm trong 2 tuần 25/09 - 09/10(23:59-13/10), teams:
+- có mô tả bài toán, có giới thiệu, nội dung, kết luận
+- 16/10 trình bày lần 1
+- sơ dồ thực thể liên kết
+- sơ đồ quan hệ (biến đổi như nào)
+-
+P/s: có các bài quiz nhỏ ngẫu nhiên, tên file: BTVN lần ... và tên nhóm, có thể có tên đề tài.
+đệ quy 1 - n 
